@@ -1,4 +1,10 @@
 .country {
-    background-color: #7a7473;
-    border: 3px solid #0c151a;
+  background-color: #7a7473;
+  border: 3px solid #0c151a;
+  text-align: center;
+  margin: 10px;
+  border-radius: 10px;
+}
+.country-flag {
+  width: 200px;
 }
