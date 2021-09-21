@@ -17,7 +17,7 @@ const Countries = () => {
       </div>
       <div className="countries">
         {countries.map((country) => (
-          <Country key={country.capital}
+          <Country key={country.alpha2ode}
            country={country}></Country>
         ))}
       </div>
